@@ -16,4 +16,4 @@ This repository contains my daily Python practice and projects.
 - AWS
 - AI Chatbot
 
-## Author
+
