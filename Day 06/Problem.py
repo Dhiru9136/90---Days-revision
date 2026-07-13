@@ -76,7 +76,7 @@ marks = {
 
 # R?ule: Don't use max().
 count= 0
-for key ,values in marks.items():
+for key ,values in marks.items(0):
     if values > count:
         count= values
 print(count)
